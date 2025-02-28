@@ -46,6 +46,6 @@ Feel free to fork this project and submit a pull request! Contributions are welc
 
 📩 Contact
 
-For any inquiries, please contact [Your Name] at [Your Email] or open an issue on GitHub.
+For any inquiries, please contact Samahassan at samahassans73s@gmail.com or open an issue on GitHub.
 
 ⭐ If you found this useful, don't forget to give it a star on GitHub! ⭐
